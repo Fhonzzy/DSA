@@ -66,6 +66,8 @@ var maximumCount = function (nums) {
 
   return Math.max(pos, neg)
 };
+
+
 // var maximumCount = function (nums) {
 //   let pos = 0;
 //   let neg = 0;
